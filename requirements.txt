@@ -1,6 +1,9 @@
-keras==1.2.2
+keras
+keras-preprocessing
 scikit-learn
-tensorflow<2.0
+tensorflow
 h5py
 PyYAML
-protobuf<3.20.0
+pymongo
+langchain
+protobuf
